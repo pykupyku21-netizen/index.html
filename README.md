@@ -6,7 +6,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&display=swap" rel="stylesheet">
   <style>
     :root{
-      --neon-color: #800080; /* kolor neonu */
+      --neon-color: #008000; /* kolor neonu */
       --width: 360px;
       --height: 180px;
       --speed: 6s; /* czas obrotu */
